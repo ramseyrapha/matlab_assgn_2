@@ -1,1 +1,1 @@
-To view the plots, run the code directly on Matlab
+To view the plots, copy the files and run the code using Matlab
